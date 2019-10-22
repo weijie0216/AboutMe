@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="my_name">Yap Wei Jie</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Education:\n
+        \n\tSM Tinggi Kota Kinabalu, Sabah\n
+        \n\tTAR UC, Kuala Lumpur\n
+        \nWorking Experiences:\n
+        \n\tNot available\n
+    </string>
+</resources>
