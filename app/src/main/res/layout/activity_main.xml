@@ -12,6 +12,7 @@
         android:id="@+id/textViewName"
         style="@style/my_text_style"
         android:gravity="center"
+        android:paddingBottom="@dimen/layout_padding"
         android:text="@string/my_name"
         app:fontFamily="@font/roboto" />
 
@@ -40,7 +41,10 @@
         style="@style/my_text_style"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
         android:gravity="center"
+        android:paddingTop="@dimen/small_padding"
+        android:paddingBottom="@dimen/small_padding"
         android:visibility="gone" />
 
     <ImageView
